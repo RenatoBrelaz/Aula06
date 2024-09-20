@@ -1,0 +1,11 @@
+body {
+    background-color: powderblue;
+  }
+
+  input[type=text] {
+    width: 20%;
+  }
+
+  input[type=radio] {
+    transform: scale(1.5);
+  }
